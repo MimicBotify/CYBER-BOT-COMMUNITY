@@ -2,7 +2,7 @@ const axios = require("axios");
 const simsim = "https://simsimi.cyberbot.top";
 
 module.exports.config = {
- name: "baby",
+ name: "meta",
  version: "1.0.3",
  hasPermssion: 0,
  credits: "ULLASH",
